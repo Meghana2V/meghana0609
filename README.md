@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @meghana0609(Meghana Vakkalanka)
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning and Deep Learning
 - 📫 How to reach me vmeghana0609@gmail.com
 - 👩 Know more about me www.linkedin.com/in/vakkalanka-meghana-3b77421a0
 
